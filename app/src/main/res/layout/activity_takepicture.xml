@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <RelativeLayout 
+        android:background="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textSize="@dimen/font_text"
+            android:layout_marginTop="14dp"
+            android:layout_marginBottom="14dp"
+            android:textColor="@color/white"
+            android:text="拍照上传《授权扣款委托书》"/>
+        <ImageView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="14dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:src="@drawable/back_selector"/>
+    </RelativeLayout>
+
+    <SurfaceView 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:id="@+id/preview"/>
+    
+    <RelativeLayout 
+        android:id="@+id/bottom_layout"
+        android:background="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textSize="@dimen/font_text"
+            android:layout_marginLeft="14dp"
+            android:layout_centerVertical="true"
+            android:textColor="@color/white"
+            android:text="重新拍摄"/>
+        <ImageView 
+            android:id="@+id/snap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/takepicture"/>
+    </RelativeLayout>    
+    
+</LinearLayout>

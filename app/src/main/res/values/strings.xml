@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">人人U学</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+
+    <string name="back">返回</string>
+    <string name="close">关闭</string>
+    <string name="menu">菜单</string>
+    <string name="exit">退出</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    
+    <!-- Accessibility description sent when user starts drawing a lock pattern. [CHAR LIMIT=NONE] -->
+    <string name="lockscreen_access_pattern_start">Pattern started</string>
+    <!-- Accessibility description sent when the pattern times out and is cleared. [CHAR LIMIT=NONE] -->
+    <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
+    <!-- Accessibility description sent when user adds a cell to the pattern. [CHAR LIMIT=NONE]  -->
+    <string name="lockscreen_access_pattern_cell_added">Cell added</string>
+    <!-- Accessibility description sent when user completes drawing a pattern. [CHAR LIMIT=NONE] -->
+    <string name="lockscreen_access_pattern_detected">Pattern completed</string>
+    
+    <!-- Gesture code starting -->
+    <string name="setup_gesture_code">设置手势密码</string>
+    <string name="setup_gesture_pattern">绘制解锁图案</string>
+    <string name="setup_gesture_pattern_again">再次绘制解锁图案</string>
+    <string name="forget_gesture_code">忘记手势密码?</string>
+    <string name="use_other_account_login">用其他账号登录</string>
+    <string name="set_gesture_pattern">绘制解锁图案</string>
+    <string name="set_gesture_pattern_reason">设置手势密码，防止他人未经授权查看</string>
+    <string name="reset_gesture_code">重新设置手势密码</string>
+    <!-- End -->
+    
+    <string name="insert_card">请插入SD卡</string>
+    <string name="down_sucess">下载成功</string>
+    <string name="down_fail">下载失败</string>
+    <string name="is_downing">正在下载</string>
+    
+    <!-- 修改密码--> 
+    <string name="editpassword">修改密码</string>    
+    <string name="editpassword_old">原密码</string>  
+    <string name="editpassword_new">新密码</string>
+    <string name="editpassword_repeat">再一次</string>
+    <string name="editpassword_wrong">原密码输入错误</string>
+    <string name="editpassword_modify">确认修改</string>
+    <string name="editpassword_hint1">请输入原始密码</string>
+    <string name="editpassword_hint2">请输入新的登录密码</string>
+    <string name="editpassword_hint3">请再依次输入新密码</string>
+    
+        <string name="tipsmouth">Open your mouth and close.</string>
+    <string name="tipblink">Do blink with your eyes.</string>
+    <string name="tippose">Rotate your pose vertically.</string>
+    <string name="facelost">Face Lost</string>
+    <string name="timeout">超时</string>
+    <string name="authok">Success</string>
+    <string name="aufail">Failed</string>
+    <string name="steps">活体检测:</string>
+    <string name="pos_detection">POS</string>
+    <string name="mouth_detection">MOUTH</string>
+    <string name="blink_detection">BLINK</string>
+
+    <array name="detect_type">
+        <item>眨眼</item>
+        <item>张嘴</item>
+        <item>摇头</item>
+    </array>
+    <array name="detect_result">
+        <item></item>
+        <item>LIVEPASS</item>
+        <item>人脸追踪失败</item>
+        <item>超时失败</item>
+        <item>LIVENOTPASS</item>
+    </array>
+
+    <string name="loading_text">使用说明：\n1、首先您需要输入姓名；\n2、之后您需要按照屏幕上的提示完成3个动作，以通过活体检测，同时软件会将您的人脸图像发送至服务器进行人脸验证；\n3、如果您没有通过活体检测或者人脸验证，则登陆失败，反之则登陆成功。</string>
+    <string name="loading_confirm">OK,I Know</string>
+    <string name="netowrk_parse_failed">解析服务器数据失败</string>
+    <string name="network_error">网络请求失败</string>
+    <string name="verify_error">验证失败</string>
+    <string name="verify_success">验证成功</string>
+    <string name="liveness_detection_failed">活体检测失败</string>
+    <string name="liveness_detection_failed_timeout">活体检测超时失败</string>
+    <string name="liveness_detection_failed_action_blend">活体检测动作错误</string>
+    <string name="liveness_detection_failed_not_video">活体检测连续性检测失败</string>
+    <string name="novalidframe">没有合适的图像用于人脸识别</string>
+    
+    <!-- 申请额度 聚信立 -->
+    <string name="juxinli_title">聚信立征信授权</string>
+    <string name="juxinli_name">姓名</string>
+    <string name="juxinli_idcard_num">证件</string>
+    <string name="juxinli_phone">手机</string>
+    <string name="juxinli_notice">注：填写电商信息将有助于您提升授信额度，聚信立及友信在授权过程中不会收集客户的账户密码信息。</string>
+    <string name="juxinli_btn_next">下一步</string>
+    
+    <string name="juxinli_validate_notice">重置XXXXXX的服务密码，请输入收到的短信验证码和你想要的服务密码，完成后自动开始手机验证，运营商会发短信告知您，聚信立从网上营业厅查询过您的详单，这是聚信立认证您信息的正常过程。</string>
+    <string name="juxinli_phone_notice">手机认证：收集您XXXXXX号码的基本信息、账单信息、通话记录、上网记录、短信详单等用于认证服务。\n运营商会发短信告知您，聚信立从网上营业厅查询过您的详单，这是聚信立认证您信息的正常过程。\n服务密码指您登陆网上营业厅使用的密码。</string>
+    <string name="juxinli_message_code">短信验证码</string>
+    <string name="juxinli_message_code_hint">请输入短信验证码</string>
+    <string name="juxinli_password_notice">密码已发送，60s后可重新发送</string>
+    <string name="juxinli_new_service_code">新服务密码</string>
+    <string name="juxinli_new_service_code_hint">请输入新服务密码</string>
+    <string name="juxinli_service_code_notice">6位数字，不能使用连续或重复数字，不能与生日、手机号、证件号中连续的六位数字相同。\n广州移动用户需要设置8位数字密码</string>
+    
+    <string name="juxinli_jdtaobao_notice">电商认证：电商网站的基本信息、送货地址、订单信息等用于认证服务。（可多选）\n填写电商信息有助于您提升授信额度，提交信息均由第三方征信机构保管，友信不进行记录。</string>
+    <string name="juxinli_jdtaobao_account">账号</string>
+    <string name="juxinli_jdtaobao_account_hint">请输入账号</string>
+    <string name="juxinli_jdtaobao_password">密码</string>
+    <string name="juxinli_jdtaobao_verify">验证</string>
+    <string name="juxinli_jdtaobao_password_hint">请输入密码</string>
+    <string name="juxinli_jdtaobao_verify_hint">手机验证码</string>
+    <string name="juxinli_jdtaobao_skip_validate">跳过电商认证</string>
+    
+    <string name="juxinli_jdtaobao_finish">完成认证</string>    
+    
+    <!-- 申请 -->
+    <string name="apply_message_content">为完成必要的信用评估，在完成申请前需要您提供相关的资料。我们将全力保障您信息的安全。</string>
+    <string name="apply_message_tip">请放心我们将保障您的信息资料安全。</string>
+    
+    <string name="apply_contact_tip">请输入现居住地址</string>
+    <string name="apply_contact_address">所在地区</string>
+    <string name="apply_contact_address_hint">详细地址</string>
+    
+    <string name="apply_contact_info_hint">联络人号码从通讯录中选取不可修改，直系亲属为必填，其他亲友可选择。</string>
+    <string name="apply_contact_info_father">父亲:</string>
+    <string name="apply_contact_info_mother">母亲:</string>
+    <string name="apply_contact_info_mate">配偶:</string>
+    <string name="apply_contact_info_other">请选择</string>
+    <string name="apply_contact_info_not_offer">不提供</string>
+    
+    <string name="study_notice">如果已有学信网账号，请登录完成学籍认证。如无账号，可点击进行注册。如账号密码遗忘，点击找回或登录学信网找回。</string>
+    <string name="study_low_notice">请填写您的最高学历，以免影响到您的审核结果</string>
+    <string name="study_high_notice">由于学信网查询出现问题，需要您上传学信网的照片。（照片内要求存在学信网LOGO、及网址）</string>
+    <!-- 反馈页面 -->
+    <string name="feedback_send">发送</string>
+    <string name="feedback_hint">我提点意见</string>
+    
+    <string name="validate_tip">为确保您的身份信息不被盗用，请完成以下身份识别项目。</string>
+    <!-- 扫二维码 -->
+    <string name="scan_tips">将二维码图片对准扫描框即可自动扫描</string>
+</resources>

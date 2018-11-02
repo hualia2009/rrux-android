@@ -1,0 +1,7 @@
+#Fri Nov 02 20:06:18 CST 2018
+base.0=/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a96e0e6aff2f023927a5c23dea32183161df1069
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6f39ce80b0677113dad52a3da22be19d2280bbae/classes.dex
+base.1=/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6f39ce80b0677113dad52a3da22be19d2280bbae
+file.0=/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a96e0e6aff2f023927a5c23dea32183161df1069/classes.dex

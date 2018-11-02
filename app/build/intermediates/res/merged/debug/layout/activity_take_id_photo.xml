@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main_rootRel"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextureView
+        android:id="@+id/main_textureview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.faceplusplus.hetaolivenessdetection.view.AutoRatioImageview
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/main_camera_mask" />
+
+    <com.faceplusplus.hetaolivenessdetection.FaceMask
+        android:id="@+id/facemask"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" />
+
+    <com.faceplusplus.hetaolivenessdetection.view.AutoRatioImageview
+        android:id="@+id/main_head_mask"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/main_head_mask" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/main_head_mask"
+        android:background="@drawable/main_gradient_back" />
+
+    <LinearLayout
+        android:id="@+id/main_tips_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:orientation="vertical"
+         >
+         
+        <Button 
+            android:id="@+id/takePicture"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="拍照"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="请将正脸置于取景框内"
+            android:textColor="#ffffff"
+            android:textSize="20dp" />
+    </LinearLayout>
+
+
+</RelativeLayout>

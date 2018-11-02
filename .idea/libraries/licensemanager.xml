@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="licensemanager">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/licensemanager.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

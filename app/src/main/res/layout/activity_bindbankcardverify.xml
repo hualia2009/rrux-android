@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <TextView
+        android:id="@+id/tip1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginRight="14dp"
+        android:layout_marginTop="20dp"
+        android:text="绑定银行卡需要短信确认，验证码已发送至手机，请按提示操作。"
+        android:textColor="@color/inner_text_color"
+        android:textSize="@dimen/font_tip" />
+
+    <TextView
+        android:id="@+id/send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/tip1"
+        android:layout_marginRight="14dp"
+        android:background="@drawable/inputhalf_blue"
+        android:gravity="center"
+        android:text="发送验证码"
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_text" />
+
+    <EditText
+        android:id="@+id/input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tip1"
+        android:layout_marginLeft="14dp"
+        android:layout_toLeftOf="@id/send"
+        android:background="@drawable/inputhalf"
+        android:hint="输入验证码"
+        android:singleLine="true"
+        android:textColor="@color/black"
+        android:textSize="@dimen/font_text" />
+
+    <TextView
+        android:id="@+id/server"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/send"
+        android:layout_marginRight="14dp"
+        android:layout_marginTop="30dp"
+        android:text="【客服】"
+        android:textColor="@color/textview_inner_color"
+        android:textSize="@dimen/font_tip"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/send"
+        android:layout_marginTop="30dp"
+        android:layout_toLeftOf="@id/server"
+        android:text="如需帮助，请联系"
+        android:textColor="@color/inner_text_color"
+        android:textSize="@dimen/font_tip" />
+
+    <TextView
+        android:id="@+id/submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/bottom_button_bg"
+        android:gravity="center"
+        android:paddingBottom="14dp"
+        android:paddingTop="14dp"
+        android:text="绑    定"
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_text" />
+
+</RelativeLayout>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/huangl/rrux-android/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_adda3607c3db956db19416ce70c3e3b715d7f15b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/huangl/rrux-android/app/libs/fraudmetrix-2.0.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bc2da01e339a7c4d58631d8f4286e5b650d2e638">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/fraudmetrix-2.0.7_975bd492b32f9a507b81ba1d9ca3dbf93ab5bf36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/.android/build-cache/63e678ae1c6c6647df04a94ab3aed79ac3064a41/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af146ed7dd71993413432a29fcc30adac61e9eb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/.android/build-cache/956071e7168291956aa0e5248629542265602dba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5f4f357e88de539564e0c2c9ac6366b2783f6ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/rrux-android/app/libs/mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/mail_be4df917e3d53811b54552c63e8cb8259db41b39/classes.dex" />
+    </item>
+    <item
+        jar="/Users/huangl/rrux-android/app/libs/licensemanager.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7cfc7b5c39f8aa0113c3e0997961573e65af4e47">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/licensemanager_bb52d48451eb5801e607b7d91c79afd003ae54ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/rrux-android/app/libs/GetuiExt-2.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7825bfa9135d693e2046eab96fd94e724e0f9eda">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/GetuiExt-2.0.3_960061590bf201506fd7042a16362e5ea0b9127d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/huangl/rrux-android/app/libs/pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/pinyin4j-2.5.0_b4038f30731798e580df9658b04a63e7ff92aef0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/rrux-android/app/libs/com.umeng.fb.5.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d94d3bddde81da1f41fe07997dd6e5ee30797303">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/com.umeng.fb.5.2.0_c92ccef26a22353b78732a97ef42dc0c95e89968/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/.android/build-cache/745c70d7c9a7c2b2d4964e58d8e05c7bc0508a15/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca3d31a291b5eee535e34c14a96a4866d0adb2d1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/huangl/rrux-android/app/libs/umeng-analytics-v5.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="75ef4894b1489017838dc57dbe9a5782ab12c427">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng-analytics-v5.4.2_89fdca51af21cc56b1b220d6421a4ca78af519ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/.android/build-cache/dd27637d6b637a84e233428b10e807c157deb873/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_476acc1ddc3f79bd91d58e8757a1a12d1724da6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/.android/build-cache/af0a0d5e1b2521d6fa76ade0fda5be9c8e2e2fc2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e855a00af7b52566b49c6fa86bed7d427a78acdf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/huangl/rrux-android/app/libs/GetuiExt-2.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7825bfa9135d693e2046eab96fd94e724e0f9eda">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/GetuiExt-2.0.3_960061590bf201506fd7042a16362e5ea0b9127d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/rrux-android/app/libs/GetuiSdk2.4.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3a3e0bf969a49b89907d3c57bf9729684f5c0b33">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/GetuiSdk2.4.1.0_e9d7b021c2ee04534f34c78cfe4900ddfc06ef73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/rrux-android/app/libs/activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/activation_c0e36ef14f438ee516ccdb2d18b84edf465aff32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/.android/build-cache/30a5fb8754cec1742ef109ff67d5642144f98726/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02e6fa06c5542308f0ad37d23b84417e99cd8660/classes.dex" />
+    </item>
+    <item
+        jar="/Users/huangl/rrux-android/app/libs/locSDK_6.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="89074d1026c4938136ae6922ac9e7b0130dc27d4">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/locSDK_6.13_79b61cfcb541316a0062aee42a8b6d81a905fcc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/rrux-android/app/libs/additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/additionnal_3349ec416549d53522011f5452aec919c0edb369/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/rrux-android/app/libs/umeng-analytics-v5.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75ef4894b1489017838dc57dbe9a5782ab12c427">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng-analytics-v5.4.2_89fdca51af21cc56b1b220d6421a4ca78af519ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/rrux-android/app/libs/licensemanager.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7cfc7b5c39f8aa0113c3e0997961573e65af4e47">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/licensemanager_bb52d48451eb5801e607b7d91c79afd003ae54ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/rrux-android/app/libs/pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/pinyin4j-2.5.0_b4038f30731798e580df9658b04a63e7ff92aef0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/rrux-android/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_adda3607c3db956db19416ce70c3e3b715d7f15b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/rrux-android/app/libs/fraudmetrix-2.0.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc2da01e339a7c4d58631d8f4286e5b650d2e638">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/fraudmetrix-2.0.7_975bd492b32f9a507b81ba1d9ca3dbf93ab5bf36/classes.dex" />
+    </item>
+    <item
+        jar="/Users/huangl/rrux-android/app/libs/mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/mail_be4df917e3d53811b54552c63e8cb8259db41b39/classes.dex" />
+    </item>
+    <item
+        jar="/Users/huangl/rrux-android/app/libs/BrHomeMobileSDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="837ebda540fd8c811b53676de80aefc4a5d6c2ba">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/BrHomeMobileSDK_a20ce118ddbc080e5fd3d404f1890578754e3a92/classes.dex" />
+    </item>
+    <item
+        jar="/Users/huangl/rrux-android/app/libs/GetuiSdk2.4.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3a3e0bf969a49b89907d3c57bf9729684f5c0b33">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/GetuiSdk2.4.1.0_e9d7b021c2ee04534f34c78cfe4900ddfc06ef73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/.android/build-cache/bca07278d691ab80f0c198ee5458a27d61853955/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f77335ddd0c28c46b326e6641691baf99397ff88/classes.dex" />
+    </item>
+    <item
+        jar="/Users/huangl/rrux-android/app/libs/additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/additionnal_3349ec416549d53522011f5452aec919c0edb369/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/rrux-android/app/libs/locSDK_6.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="89074d1026c4938136ae6922ac9e7b0130dc27d4">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/locSDK_6.13_79b61cfcb541316a0062aee42a8b6d81a905fcc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/rrux-android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a96e0e6aff2f023927a5c23dea32183161df1069/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/rrux-android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8542129034fc640fe661b0489319bf57e81f93f9">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6f39ce80b0677113dad52a3da22be19d2280bbae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/.android/build-cache/2640a005db7462d88cbbe1fcad11f872f09d999a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cad8b4465edc6993c73bd9f75bbe7afa1a54210d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/soft/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_90577f802e3748bbd68cae9cca5eda49bc0d8b0c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/huangl/rrux-android/app/libs/com.umeng.fb.5.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d94d3bddde81da1f41fe07997dd6e5ee30797303">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/com.umeng.fb.5.2.0_c92ccef26a22353b78732a97ef42dc0c95e89968/classes.dex" />
+    </item>
+    <item
+        jar="/Users/huangl/rrux-android/app/libs/activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/activation_c0e36ef14f438ee516ccdb2d18b84edf465aff32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/rrux-android/app/libs/BrHomeMobileSDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="837ebda540fd8c811b53676de80aefc4a5d6c2ba">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/BrHomeMobileSDK_a20ce118ddbc080e5fd3d404f1890578754e3a92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/huangl/rrux-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5006eb64108e299b613b65e509cbd2a9dee67b38/classes.dex" />
+    </item>
+
+</items>

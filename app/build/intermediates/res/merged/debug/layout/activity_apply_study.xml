@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/roott"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+    
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/white"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/low_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2"
+                    android:orientation="vertical"
+                    android:visibility="gone" >
+
+                    <TextView
+                        android:id="@+id/study_notice"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="20dp"
+                        android:src="@drawable/login_bg_right_bottom"
+                        android:text="@string/study_low_notice"
+                        android:textSize="@dimen/font_tip" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="2"
+                        android:gravity="center_horizontal"
+                        android:orientation="vertical" >
+
+                            <EditText 
+						       android:layout_width="match_parent"
+						       android:layout_height="wrap_content"
+						       android:id="@+id/schoolName"
+						       android:textSize="@dimen/font_text"
+						       android:textColor="@color/black"
+						       android:background="@drawable/input"
+						       android:layout_marginLeft="14dp"
+						       android:layout_marginRight="14dp"
+						       android:layout_marginBottom="30dp"
+						       android:singleLine="true"
+						       android:textColorHint="@color/gray_default"
+						       android:hint="请输入毕业学校名称"/>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/high_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:orientation="vertical"
+                    android:paddingBottom="60dp" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="20dp"
+                        android:src="@drawable/login_bg_right_bottom"
+                        android:text="@string/study_notice" />
+
+                    <EditText
+                        android:id="@+id/username"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginRight="20dp"
+                        android:layout_marginTop="20dp"
+                        android:background="@drawable/input"
+                        android:hint="学信网账号"
+                        android:singleLine="true"
+                        android:textColorHint="@color/gray_default"
+                        android:textSize="@dimen/font_button" />
+
+                    <com.custom.widgt.CustomEditText
+                        android:id="@+id/password"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginRight="20dp"
+                        android:layout_marginTop="20dp"
+                        android:background="@drawable/input"
+                        android:hint="学信网密码"
+                        android:password="true"
+                        android:singleLine="true"
+                        android:textColorHint="@color/gray_default"
+                        android:textSize="@dimen/font_button" />
+                    
+                   <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginRight="20dp"
+                        android:layout_marginTop="25dp"
+                        android:orientation="horizontal"
+                        android:gravity="center"
+                        >
+
+	                    <TextView
+	                        android:id="@+id/regist_xuexin"
+	                        android:layout_width="wrap_content"
+	                        android:layout_height="wrap_content"
+	                        android:layout_gravity="right"
+	                        android:layout_marginRight="20dp"
+	                        android:text="注册学信"
+	                        android:textColor="@color/main_blue_color"
+	                        android:textSize="@dimen/font_tip" />
+	                    
+	                    <View 
+	                        android:layout_height="match_parent"
+	                        android:layout_width="1dp"
+	                        android:layout_marginTop="2dp"
+	                        android:layout_marginBottom="2dp"
+	                        android:background="@color/main_blue_color"/>
+	                    
+	                    <TextView
+	                        android:id="@+id/forget"
+	                        android:layout_width="wrap_content"
+	                        android:layout_height="wrap_content"
+	                        android:layout_gravity="right"
+	                        android:layout_marginLeft="20dp"
+	                        android:text="忘记密码"
+	                        android:textColor="@color/main_blue_color"
+	                        android:textSize="@dimen/font_tip" />
+                    
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/verifyLayout"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginRight="20dp"
+                        android:layout_marginTop="20dp"
+                        android:orientation="vertical"
+                        android:visibility="gone" >
+
+                        <EditText
+                            android:id="@+id/verifyCode"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/input"
+                            android:hint="请填写验证码"
+                            android:singleLine="true"
+                            android:textColorHint="@color/gray_default"
+                            android:textSize="@dimen/font_button" />
+
+                        <ImageView
+                            android:id="@+id/verifyImage"
+                            android:layout_width="match_parent"
+                            android:layout_height="100dp"
+                            android:layout_marginTop="20dp"
+                            android:background="@drawable/image_line_border"
+                            android:paddingBottom="5dp"
+                            android:paddingTop="5dp"
+                            android:scaleType="fitCenter"
+                            android:src="@drawable/bank_hangzhou" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/agree"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/bottom_button_bg"
+        android:enabled="false"
+        android:text="保    存"
+        android:textColor="@color/white" />
+
+</RelativeLayout>

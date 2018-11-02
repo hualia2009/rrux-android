@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BrHomeMobileSDK">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/BrHomeMobileSDK.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

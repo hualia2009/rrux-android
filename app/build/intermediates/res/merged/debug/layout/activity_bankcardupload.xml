@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/main_backgroud" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="40dp"
+            android:text="请拍摄银行卡正面，银行卡号清晰可见"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:gravity="center_horizontal"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <RelativeLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <View 
+                android:id="@+id/tophalf"
+                android:background="@color/main_blue_color"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"/>
+            <View 
+                android:id="@+id/underhalf"
+                android:background="@color/white"
+                android:layout_below="@id/tophalf"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"/>
+            <ImageView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:id="@+id/take"
+                android:src="@drawable/takebankcard"/>
+        </RelativeLayout>
+        <ImageView 
+            android:id="@+id/image"
+            android:background="@drawable/rectangle_kuang"
+            android:padding="4dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+    
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bottom_button_bg"
+        android:text="提交"
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_text" />
+
+</LinearLayout>

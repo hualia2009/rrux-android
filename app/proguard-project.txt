@@ -1,0 +1,194 @@
+# To enable ProGuard in your project, edit project.properties
+# to define the proguard.config property as described in that file.
+#
+# Add project specific ProGuard rules here.
+# By default, the flags in this file are appended to flags specified
+# in ${sdk.dir}/tools/proguard/proguard-android.txt
+# You can edit the include path and order by changing the ProGuard
+# include property in project.properties.
+#
+# For more details, see
+#   http://developer.android.com/guide/developing/tools/proguard.html
+
+# Add any project specific keep options here:
+
+# If your project uses WebView with JS, uncomment the following
+# and specify the fully qualified class name to the JavaScript interface
+# class:
+#-keepclassmembers class fqcn.of.javascript.interface.for.webview {
+#   public *;
+#}
+-optimizationpasses 5
+-dontusemixedcaseclassnames
+-dontskipnonpubliclibraryclasses
+-dontpreverify
+-verbose
+-optimizations !code/simplification/arithmetic,!field/*,!class/merging/*
+
+-keepattributes *Annotation*
+-keepattributes Signature
+
+-dontwarn com.igexin.**
+-keep class com.igexin.**{*;}
+
+-dontwarn com.alibaba.fastjson.**
+-keep class com.alibaba.fastjson.**{*;}
+
+-dontwarn com.baoyz.swipemenulistview.**
+-keep class com.baoyz.swipemenulistview.**{*;}
+
+-dontwarn com.custom.**
+-keep class com.custom.**{*;}
+
+-dontwarn com.faceplusplus.hetaolivenessdetection.**
+-keep class com.faceplusplus.hetaolivenessdetection.**{*;}
+
+-dontwarn com.handmark.pulltorefresh.library.**
+-keep class com.handmark.pulltorefresh.library.**{*;}
+
+-dontwarn com.jeremyfeinstein.slidingmenu.lib.**
+-keep class com.jeremyfeinstein.slidingmenu.lib.**{*;}
+
+-dontwarn com.lidroid.xutils.**
+-keep class com.lidroid.xutils.**{*;}
+
+-dontwarn com.loopj.android.http.**
+-keep class com.loopj.android.http.**{*;}
+
+-dontwarn com.nostra13.universalimageloader.**
+-keep class com.nostra13.universalimageloader.**{*;}
+
+-dontwarn com.ucredit.dream.encrypt.**
+-keep class com.ucredit.dream.encrypt.**{*;}
+
+-dontwarn kankan.wheel.widget.**
+-keep class kankan.wheel.widget.**{*;}
+
+-dontwarn cn.fraudmetrix.android.**
+-keep class cn.fraudmetrix.android.**{*;}
+
+-dontwarn exocr.**
+-keep class exocr.**{*;}
+
+-keep class com.baidu.** { *; } 
+-keep class vi.com.gdi.bgl.android.**{*;}
+
+-keep public class * extends android.app.Fragment  
+-keep public class * extends android.app.Activity
+-keep public class * extends android.app.Application
+-keep public class * extends android.app.Service
+-keep public class * extends android.content.BroadcastReceiver
+-keep public class * extends android.content.ContentProvider
+-keep public class * extends android.app.backup.BackupAgentHelper
+-keep public class * extends android.preference.Preference
+-keep public class * extends android.support.v4.**
+-keep public class com.android.vending.licensing.ILicensingService
+
+-keep class com.ucredit.dream.bean.** { *; }
+ 
+-keep class com.android.vending.licensing.ILicensingService
+-keep class android.support.v4.** { *; }  
+ 
+-keep class com.umeng.** { *; }  
+-keep class com.umeng.analytics.** { *; }  
+-keep class com.umeng.common.** { *; }  
+-keep class com.umeng.newxp.** { *; }   
+
+-dontwarn android.support.v4.**  
+
+-keepclasseswithmembers class * {
+    native <methods>;
+}
+
+-keepclasseswithmembers class * {
+    public <init>(android.content.Context, android.util.AttributeSet);
+}
+
+-keepclasseswithmembers class * {
+    public <init>(android.content.Context, android.util.AttributeSet, int);
+}
+
+-keepclassmembers enum * {
+    public static **[] values();
+    public static ** valueOf(java.lang.String);
+}
+
+-keep class * implements android.os.Parcelable {
+  public static final android.os.Parcelable$Creator *;
+}
+
+-keepclasseswithmembers class * {
+    public <init>(android.content.Context);
+}
+
+-dontshrink
+-dontoptimize
+-dontwarn android.webkit.WebView
+-dontwarn com.umeng.**
+
+-keepattributes Exceptions,InnerClasses,Signature
+-keepattributes *Annotation*
+-keepattributes SourceFile,LineNumberTable
+
+-keep public interface com.umeng.socialize.**
+-keep public interface com.umeng.socialize.sensor.**
+-keep public interface com.umeng.scrshot.**
+
+-keep public class com.umeng.socialize.* {*;}
+-keep public class javax.**
+-keep public class android.webkit.**
+
+-keep class com.umeng.scrshot.**
+-keep class com.umeng.socialize.sensor.**
+
+-keep public class [com.ucredit.dream].R$*{
+    public static final int *;
+}
+-keep public class [com.custom.libs].R$*{
+    public static final int *;
+}
+
+-libraryjars libs/pinyin4j-2.5.0.jar
+
+-dontwarn demo.**
+-keep class demo.**{*;}
+ 
+-dontwarn net.sourceforge.pinyin4j.**  
+-keep class net.sourceforge.pinyin4j.**{*;}
+-keep class net.sourceforge.pinyin4j.format.**{*;}
+-keep class net.sourceforge.pinyin4j.format.exception.**{*;}
+
+-dontwarn javax.mail.**
+-keep class javax.security.**{*;}
+-keep class javax.mail.**{*;}
+-keep class javax.mail.even.**{*;}
+-keep class javax.mail.internet.**{*;}
+-keep class javax.mail.search.**{*;}
+-keep class javax.mail.util.**{*;}
+
+-dontwarn com.sun.mail.**
+-keep class com.sun.mail.**{*;}
+-keep class com.sun.mail.dsn.**{*;}
+-keep class com.sun.mail.handlers.**{*;}
+-keep class com.sun.mail.iap.**{*;}
+-keep class com.sun.mail.imap.**{*;}
+-keep class com.sun.mail.pop3.**{*;}
+-keep class com.sun.mail.smtp.**{*;}
+-keep class com.sun.mail.util.**{*;}
+
+-dontwarn org.apache.harmony.**
+-keep class org.apache.harmony.**{*;}
+-keep class org.apache.harmony.awt.**{*;}
+-keep class org.apache.harmony.misc.**{*;}
+
+-dontwarn javax.activation.**
+-keep class java.beans.**{*;}
+
+# ProGuard configurations for NetworkBench Lens
+-keep class com.networkbench.** { *; }
+-dontwarn com.networkbench.**
+-keepattributes Exceptions, Signature, InnerClasses
+# End NetworkBench Lens
+
+-keepattributes SourceFile,LineNumberTable
+

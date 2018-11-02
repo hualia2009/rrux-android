@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:scrollbars="none"
+    android:fillViewport="true" >
+
+    <LinearLayout
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="14dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="分期金额："
+                android:textColor="@color/black"
+                android:textSize="@dimen/font_button" />
+
+            <EditText
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@null"
+                android:id="@+id/money"
+                android:hint="请输入金额"
+                android:textColorHint="@color/gray_default"
+                android:inputType="number"
+                android:clickable="true"
+                android:textColor="@color/black"
+                android:textSize="@dimen/font_button" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="元"
+                android:textColor="@color/black"
+                android:textSize="@dimen/font_button" />
+        </LinearLayout>
+
+        <View 
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="14dp"
+            android:layout_marginRight="14dp"
+            android:background="@color/divide_line_color"/>           
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="14dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="还款期限："
+                android:textColor="@color/black"
+                android:textSize="@dimen/font_button"
+                android:visibility="invisible" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:text="额度范围1000-8000元"
+                android:id="@+id/range"
+                android:textColor="@color/inner_text_color"
+                android:textSize="@dimen/font_button" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="14dp"
+            android:background="#EFEFF4" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="14dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="还款期限："
+                android:textColor="@color/black"
+                android:textSize="@dimen/font_button" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@null"
+                android:hint="请选择分期"
+                android:textColorHint="@color/main_blue_color"
+                android:id="@+id/deadline"
+                android:textColor="@color/black"
+                android:textSize="@dimen/font_button" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/rightarrow" />
+        </LinearLayout>        
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="14dp"
+            android:layout_marginRight="14dp"
+            android:background="@color/divide_line_color" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:visibility="gone"
+            android:padding="14dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="还款方式："
+                android:textColor="@color/black"
+                android:textSize="@dimen/font_button" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:id="@+id/way"
+                android:textColor="@color/inner_text_color"
+                android:textSize="@dimen/font_button" />
+        </LinearLayout>        
+
+        
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="14dp"
+            android:background="#EFEFF4" />        
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            
+            android:orientation="horizontal"
+            android:padding="14dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="月还款额："
+                android:textColor="@color/black"
+                android:textSize="@dimen/font_button" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:id="@+id/deadlinedetail"
+                android:lineSpacingMultiplier="1.3"
+                android:textColor="@color/inner_text_color"
+                android:textSize="@dimen/font_button" />
+        </LinearLayout>     
+        
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:id="@+id/calculate"
+            android:background="@drawable/button_blue_bg"
+            android:textColor="@color/main_backgroud"
+            android:gravity="center"
+            android:visibility="gone"
+            android:text="试算"/>
+        
+        <View 
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="14dp"
+            android:layout_marginRight="14dp"
+            android:background="@color/divide_line_color"/>
+        <TextView 
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:paddingLeft="14dp"
+            android:paddingRight="14dp"
+            android:gravity="center_vertical"
+            android:textSize="@dimen/font_tip"
+            android:textColor="@color/main_blue_color"
+            android:text="最终批核的分期额度及期限将综合您的个人信用情况后给出，提交分期方案后将开始补充个人信息。"/>  
+        <TextView 
+            android:id="@+id/submit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="提    交"
+            android:enabled="false"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:paddingTop="14dp"
+            android:paddingBottom="14dp"
+            android:textSize="@dimen/font_text"
+            android:background="@drawable/bottom_button_bg"/>                
+    </LinearLayout>
+
+</ScrollView>

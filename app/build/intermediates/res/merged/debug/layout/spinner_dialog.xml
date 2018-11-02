@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:listSelector="@drawable/spinner_item_selector"
+    android:background="@color/spinner_item_normal"
+    android:divider="@android:color/white"
+    android:dividerHeight="1px"
+    android:minHeight="?android:attr/listPreferredItemHeightLarge"
+    android:id="@+id/list">
+    
+
+</ListView>

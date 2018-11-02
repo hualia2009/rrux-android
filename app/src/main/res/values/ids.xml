@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="selected_view" type="id"/>
+    
+    <item type="id" name="gridview" />
+    <item type="id" name="webview" />
+    <item type="id" name="scrollview" />
+    
+    <item type="id" name="activity_header" />
+    <item type="id" name="title_left" />
+    <item type="id" name="exit" />
+    <item type="id" name="title" />
+    <item type="id" name="img_title" />
+    <item type="id" name="llRight" />
+    <item type="id" name="imgRight" />
+    <item type="id" name="txtRight" />
+    <item type="id" name="activity_content" />
+    <item type="id" name="cover" />
+    <item type="id" name="bottom_bar" />
+    
+    <!-- 主菜单 -->
+    <item type="id" name="main_menu_home" />
+    <item type="id" name="main_menu_message" />
+    <item type="id" name="main_menu_setting" />
+    <item type="id" name="main_menu_feedback" />
+    <item type="id" name="main_menu_login" />
+    <item type="id" name="main_menu_register" />
+    <item type="id" name="main_text_copyright"/>
+    
+    <!-- 额度管理 -->
+    <item type="id" name="limit_top_tip_layout"></item>
+    <item type="id" name="limit_center_button"></item>
+    <item type="id" name="limit_bottom_button"></item>
+    <item type="id" name="limit_center_layout"></item>
+    <item type="id" name="limit_bottom_layout"></item>
+    <item type="id" name="limit_textview_money"></item>
+    
+    <!-- 申请额度 -->
+    <item type="id" name="apply_layout_top_line"></item>
+    <item type="id" name="apply_layout_top_textview"></item>
+    <!-- 申请额度->上传资料 -->
+    <item type="id" name="apply_upload_idcard_layout"></item>
+    <item type="id" name="apply_upload_social_layout"></item>
+    <item type="id" name="apply_upload_credit_layout"></item>
+    <item type="id" name="apply_upload_photo_layout"></item>
+    <item type="id" name="apply_upload_juxinli_layout"></item>
+    <item type="id" name="apply_upload_pengyuan_layout"></item>
+    
+    <item type="id" name="apply_upload_idcard_front_bg"></item>
+    <item type="id" name="apply_upload_idcard_back_bg"></item>
+    
+    <item type="id" name="juxinli_top_layout"></item>
+    
+    <item type="id" name="juxinli_message_topview"></item>
+    
+    <item type="id" name="juxinli_jdtaobao_account"></item>
+    <item type="id" name="juxinli_jdtaobao_password"></item>
+    <item type="id" name="juxinli_jd_img"></item>
+    <item type="id" name="juxinli_taobao_img"></item>
+    
+    <item type="id" name="apply_layout_point_two"></item>
+    <item type="id" name="apply_layout_point_three"></item>
+    
+  <item type="id" name="auto_focus"/>
+  <item type="id" name="decode"/>
+  <item type="id" name="decode_failed"/>
+  <item type="id" name="decode_succeeded"/>
+  <item type="id" name="encode_failed"/>
+  <item type="id" name="encode_succeeded"/>
+  <item type="id" name="launch_product_query"/>
+  <item type="id" name="quit"/>
+  <item type="id" name="restart_preview"/>
+  <item type="id" name="return_scan_result"/>
+  <item type="id" name="search_book_contents_failed"/>
+  <item type="id" name="search_book_contents_succeeded"/>
+    
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <LinearLayout 
+        android:id="@+id/fb_input_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical">
+        
+        <View 
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="@color/line_color"/>
+        
+        <RelativeLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+            <TextView
+                android:id="@+id/fb_send_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/bottom_button_bg"
+                android:gravity="center"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:text="@string/feedback_send"
+                android:textColor="@android:color/white"/>
+            <EditText
+                android:id="@+id/fb_send_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:singleLine="true"
+                android:textColorHint="@color/gray"
+                android:layout_toLeftOf="@id/fb_send_btn"
+                android:hint="@string/umeng_fb_feedback"
+                />
+        </RelativeLayout>
+        
+    </LinearLayout>
+ <android.support.v4.widget.SwipeRefreshLayout
+     android:id="@+id/fb_reply_refresh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/fb_input_layout">
+     <ListView
+        android:id="@+id/fb_reply_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="#00000000"  
+        android:dividerHeight="0dip"  
+        android:listSelector="@android:color/transparent"
+         >
+    </ListView>
+ </android.support.v4.widget.SwipeRefreshLayout>
+</RelativeLayout>

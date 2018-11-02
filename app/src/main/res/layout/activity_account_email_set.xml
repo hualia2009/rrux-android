@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    
+    <TextView 
+        android:id="@+id/tip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="@dimen/font_tip"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginRight="14dp"
+        android:lineSpacingMultiplier="1.3"
+        android:textColor="@color/inner_text_color"/>
+
+    <EditText 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tip"
+        android:id="@+id/email"
+        android:textSize="@dimen/font_text"
+        android:textColor="@color/black"
+        android:background="@drawable/input"
+        android:layout_marginLeft="14dp"
+        android:layout_marginRight="14dp"
+        android:layout_marginBottom="30dp"
+        android:singleLine="true"
+        android:textColorHint="@color/gray_default"
+        android:inputType="textEmailAddress"
+        android:hint="邮箱地址"/>
+
+    <TextView
+        android:id="@+id/submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/bottom_button_bg"
+        android:gravity="center"
+        android:enabled="false"
+        android:paddingBottom="14dp"
+        android:paddingTop="14dp"
+        android:text="保    存"
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_button" />
+</RelativeLayout>

@@ -1,0 +1,42 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.3"
+    useLibrary 'org.apache.http.legacy'
+
+    defaultConfig {
+        applicationId "com.ucredit.dream"
+        minSdkVersion 17
+        targetSdkVersion 25
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-project.txt'
+        }
+    }
+
+    aaptOptions{
+        cruncherEnabled false
+        useNewCruncher = false
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile files('libs/BrHomeMobileSDK.jar')
+    compile files('libs/GetuiExt-2.0.3.jar')
+    compile files('libs/GetuiSdk2.4.1.0.jar')
+    compile files('libs/activation.jar')
+    compile files('libs/additionnal.jar')
+    compile files('libs/com.umeng.fb.5.2.0.jar')
+    compile files('libs/fraudmetrix-2.0.7.jar')
+    compile files('libs/licensemanager.jar')
+    compile files('libs/locSDK_6.13.jar')
+    compile files('libs/mail.jar')
+    compile files('libs/nineoldandroids-2.4.0.jar')
+    compile files('libs/pinyin4j-2.5.0.jar')
+    compile files('libs/umeng-analytics-v5.4.2.jar')
+}

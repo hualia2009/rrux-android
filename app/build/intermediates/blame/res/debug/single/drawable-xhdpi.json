@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi/face_btn.9.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/face_btn.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi/fb_reply_content.9.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/fb_reply_content.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi/reset_serve_normal.9.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/reset_serve_normal.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi/base_toast_bg.9.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/base_toast_bg.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi/button_blue_bg.9.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/button_blue_bg.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi/reset_serve_selected.9.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/reset_serve_selected.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi/spinner.9.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/spinner.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi/fb_ask_content.9.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/fb_ask_content.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi/send_identify_normal.9.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/send_identify_normal.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi/send_identify_selected.9.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/send_identify_selected.9.png"
+    }
+]

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/main_blue_color">
+    
+
+<RelativeLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="14dp"
+    android:padding="14dp"
+    android:background="@drawable/rechargecarditem_bg" >
+    <ImageView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/bank_zhongguo"
+        android:id="@+id/logo"
+        android:layout_alignParentLeft="true"/>
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="14dp"
+        android:text="中国银行"
+        android:textColor="@color/black"
+        android:id="@+id/name"
+        android:textSize="@dimen/font_button"
+        android:layout_toRightOf="@id/logo"/>
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="14dp"
+        android:layout_marginTop="4dp"
+        android:layout_below="@id/name"
+        android:id="@+id/type"
+        android:textColor="@color/inner_text_color"
+        android:layout_toRightOf="@id/logo"
+        android:textSize="@dimen/font_text"
+        android:text="储蓄卡"/>
+    <ImageView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:id="@+id/cancle"
+        android:src="@drawable/cancle"/>
+    
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="***********5593"
+        android:textColor="@color/black"
+        android:layout_alignLeft="@id/type"
+        android:id="@+id/number"
+        android:textSize="@dimen/font_text"
+        android:layout_marginTop="14dp"
+        android:layout_marginBottom="10dp"
+        android:layout_below="@id/type"/>
+</RelativeLayout>
+</RelativeLayout>

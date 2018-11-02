@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/xml_white_corners_bottom_red.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/xml_white_corners_bottom_red.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/progress_normal.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/progress_normal.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/button_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/button_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/main_scan_btn_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/main_scan_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/cancle.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/cancle.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/bottom_button_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/bottom_button_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/validate_photo.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/validate_photo.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/main_repay_btn_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/main_repay_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/main_viewpager_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/main_viewpager_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/vertical_dash.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/vertical_dash.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/custom_takephoto_selector.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/custom_takephoto_selector.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/apply_contact.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/apply_contact.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/loading_confirm_selector.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/loading_confirm_selector.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/list_item_divider.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/list_item_divider.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/xml_dialog_click.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/xml_dialog_click.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/photo_layout_select_selector.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/photo_layout_select_selector.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/radiobutton_selector.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/radiobutton_selector.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/loading_refresh_selector.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/loading_refresh_selector.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/xml_bottom_image_corners_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/xml_bottom_image_corners_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/xml_bottom_gray_corners_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/xml_bottom_gray_corners_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/background_tab.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/background_tab.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/main_credit_btn_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/main_credit_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/apply_btn_bg_disable.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/apply_btn_bg_disable.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/indicator_bg_top.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/apply_btn_bg_done.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/apply_btn_bg_done.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/spinner_item_selector.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/spinner_item_selector.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/xml_dialog_image_text.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/xml_dialog_image_text.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/rotate_progress.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/rotate_progress.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/bg_contact_add.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/bg_contact_add.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/memorandum_item_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/memorandum_item_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/result_back_selector.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/result_back_selector.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/wheel_val.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/wheel_val.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/reset_serve_selector.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/reset_serve_selector.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/login_button_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/login_button_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/main_apply_btn_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/main_apply_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/text_background_color.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/text_background_color.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/xml_white_corners_top.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/xml_white_corners_top.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/xml_dialog_image_click.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/xml_dialog_image_click.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/xml_bottom_white_corners_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/xml_bottom_white_corners_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/rechargecarditem_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/rechargecarditem_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/input_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/input_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/xml_top_image_corners_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/xml_top_image_corners_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/takebankcard.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/takebankcard.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/dot_line_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/dot_line_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/ns_rotate_progress.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/ns_rotate_progress.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/xml_white_corners_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/xml_white_corners_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/before_rotate_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/before_rotate_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/bg_sidebar.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/bg_sidebar.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/protocol_credit.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/protocol_credit.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/white_frame.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/white_frame.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/apply_bank.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/apply_bank.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/send_identify_selector.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/send_identify_selector.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/bg_border.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/bg_border.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/progress_timeout.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/progress_timeout.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/textview_selector.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/textview_selector.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/xml_white_corners_bottom.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/xml_white_corners_bottom.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/button_background_colour.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/button_background_colour.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/apply_btn_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/apply_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/wheel_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/wheel_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/button_textcolor.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/button_textcolor.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/photo_layout_againbtn_selector.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/photo_layout_againbtn_selector.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/bg_black.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/bg_black.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/gridview_item_selector.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/gridview_item_selector.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/circle_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/circle_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/protocol_borrow.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/protocol_borrow.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/manage_appendix_selector.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/manage_appendix_selector.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/apply_phone.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/apply_phone.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/apply_study.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/apply_study.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/protocol_huakou.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/protocol_huakou.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/juxinli_skip.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/juxinli_skip.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/photo_layout_surebtn_selector.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/photo_layout_surebtn_selector.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/scan_anim.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/scan_anim.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/scan.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/scan.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/button_text_colour.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/button_text_colour.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/shengying_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/shengying_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/edittext_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/edittext_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/main_menu_backgroud_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/main_menu_backgroud_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/bg_bar.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/bg_bar.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/image_line_border.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/image_line_border.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/main_sign_btn_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/main_sign_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/manage_loan_selector.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/manage_loan_selector.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/back_selector.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/back_selector.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/clearedittext_bg.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/clearedittext_bg.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/xml_dialog_text.xml",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable/xml_dialog_text.xml"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable/notification_bg_low.xml"
+    }
+]

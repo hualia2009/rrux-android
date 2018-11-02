@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:fillViewport="true"
+    android:scrollbars="none">
+
+   <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical" >
+
+        <RelativeLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <View 
+                android:id="@+id/tophalf"
+                android:background="@color/main_blue_color"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"/>
+            <View 
+                android:id="@+id/underhalf"
+                android:background="@color/white"
+                android:layout_below="@id/tophalf"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"/>
+            <ImageView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:id="@+id/scan"
+                android:src="@drawable/scan"/>
+        </RelativeLayout>        
+      
+        <TextView 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="14dp"
+            android:text="*必须为本人开户银行卡"
+            android:textSize="12sp"
+            android:textColor="#ff0000"
+            android:gravity="center"/>
+        
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="14dp"
+            android:layout_marginRight="14dp"
+            android:background="@color/divide_line_color" />          
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="14dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="开户银行："
+                android:textColor="@color/black"
+                android:textSize="@dimen/font_button" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:id="@+id/bank"
+                android:editable="false"
+                android:hint="请选择"
+                android:textColorHint="@color/main_blue_color"
+                android:textColor="@color/inner_text_color"
+                android:textSize="@dimen/font_button" />
+        </LinearLayout>            
+        
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="14dp"
+            android:layout_marginRight="14dp"
+            android:background="@color/divide_line_color" />          
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="14dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="银行卡号："
+                android:textColor="@color/black"
+                android:textSize="@dimen/font_button" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:id="@+id/bankcard"
+                android:enabled="false"
+                android:textColorHint="@color/gray_default"
+                android:hint="请扫描银行卡"
+                android:textColor="@color/inner_text_color"
+                android:textSize="@dimen/font_button" />
+        </LinearLayout>            
+        
+        
+        
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="14dp"
+            android:layout_marginRight="14dp"
+            android:background="@color/divide_line_color" />   
+            
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:visibility="gone"
+            android:paddingLeft="14dp"
+            android:paddingRight="14dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="验证码："
+                android:textColor="@color/black"
+                android:textSize="@dimen/font_button" />
+
+            <EditText
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:id="@+id/verify"
+                android:textColor="@color/inner_text_color"
+                android:textSize="@dimen/font_button" />
+            
+            <TextView
+                android:id="@+id/sendverify"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="1dp"
+                android:background="@drawable/inputhalf_blue"
+                android:gravity="center"
+                android:hint="发送验证码"
+                android:padding="2dp"
+                android:singleLine="true"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="@dimen/font_button" />
+        </LinearLayout>          
+        
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:visibility="gone"
+            android:layout_marginLeft="14dp"
+            android:layout_marginRight="14dp"
+            android:background="@color/divide_line_color" />          
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="14dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="支行信息："
+                android:textColor="@color/black"
+                android:textSize="@dimen/font_button" />
+
+            <EditText
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@null"
+                android:text="选择城市"
+                android:editable="false"
+                android:id="@+id/city"
+                android:textColor="@color/main_blue_color"
+                android:textSize="@dimen/font_button" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/rightarrow" />
+        </LinearLayout>        
+        
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="14dp"
+            android:layout_marginRight="14dp"
+            android:background="@color/divide_line_color" />          
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="14dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="支行信息："
+                android:visibility="invisible"
+                android:textColor="@color/black"
+                android:textSize="@dimen/font_button" />
+
+            <EditText
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@null"
+                android:text="选择支行"
+                android:editable="false"
+                android:id="@+id/branch"
+                android:textColor="@color/main_blue_color"
+                android:textSize="@dimen/font_button" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/rightarrow" />
+        </LinearLayout>     
+        
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="14dp"
+            android:layout_marginRight="14dp"
+            android:background="@color/divide_line_color" />          
+        
+        <View 
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+
+             <Button
+                 android:id="@+id/submit"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentBottom="true"
+                 android:background="@drawable/bottom_button_bg"
+                 android:text="确认提交"
+                 android:textSize="@dimen/font_text"
+                 android:textColor="@color/white" />
+        
+    </LinearLayout>
+    
+
+</ScrollView>

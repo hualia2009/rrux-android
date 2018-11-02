@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="为完成运营商授权，请输入手机运营商的服务密码！"
+        android:layout_marginLeft="14dp"
+        android:layout_marginRight="14dp"
+        android:id="@+id/tip1"
+        android:textSize="@dimen/font_tip"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:textColor="@color/inner_text_color"/>
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="此次授权获取运营商的实名信息，通话信息等资料仅用于此次授信服务，我们将保障信息安全。"
+        android:id="@+id/tip2"
+        android:layout_below="@id/tip1"
+        android:textSize="@dimen/font_tip"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginRight="14dp"
+        android:textColor="@color/inner_text_color"/>
+
+    <EditText 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tip2"
+        android:id="@+id/phone"
+        android:editable="false"
+        android:textSize="@dimen/font_text"
+        android:textColor="@color/black"
+        android:background="@drawable/input"
+        android:layout_marginLeft="14dp"
+        android:layout_marginRight="14dp"
+        android:singleLine="true"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/phone"
+        android:id="@+id/input_layout"
+        android:layout_marginBottom="30dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginRight="14dp"
+        android:layout_marginTop="20dp" >
+
+        <com.custom.widgt.CustomEditText
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/input"
+            android:hint="输入服务密码"
+            android:password="true"
+            android:textColorHint="@color/edittext_hint_color"
+            android:singleLine="true"
+            android:textColor="@color/black"
+            android:textSize="@dimen/font_text" />
+        
+        <TextView
+            android:id="@+id/send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/inputhalf_blue"
+            android:gravity="center"
+            android:text="重新发送"
+            android:visibility="invisible"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_text" />
+
+        <EditText
+            android:id="@+id/input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/send"
+            android:background="@drawable/inputhalf"
+            android:hint="输入动态验证码"
+            android:textColorHint="@color/edittext_hint_color"
+            android:visibility="invisible"
+            android:singleLine="true"
+            android:textColor="@color/black"
+            android:textSize="@dimen/font_text" />
+</RelativeLayout>
+
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="【重置密码】"
+        android:layout_marginRight="14dp"
+        android:id="@+id/server"
+        android:layout_below="@id/input_layout"
+        android:layout_alignParentRight="true"
+        android:textSize="@dimen/font_tip"
+        android:textColor="@color/textview_inner_color"
+        android:textStyle="bold"/>
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="14dp"
+        android:id="@+id/tips"
+        android:textSize="@dimen/font_tip"
+        android:layout_toLeftOf="@id/server"
+        android:layout_below="@id/input_layout"
+        android:textColor="@color/inner_text_color"/>
+    <TextView
+        android:id="@+id/submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/bottom_button_bg"
+        android:gravity="center"
+        android:paddingBottom="14dp"
+        android:paddingTop="14dp"
+        android:text="下一步"
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_text" />
+</RelativeLayout>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:orientation="vertical">
+
+	<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:padding="10dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="点击以下各项完成电子协议签署"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:textSize="@dimen/font_tip"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textColor="@color/font_color" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:padding="10dp" >
+        
+        <RelativeLayout 
+            android:id="@+id/sign_huakou_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:padding="10dp"
+            android:background="@drawable/apply_btn_bg">
+			    
+
+			<TextView
+			    android:id="@+id/sign_huakou_txt"
+			    android:layout_margin="10dp"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="划扣授权书"
+			    android:textColor="@color/white"
+			    android:layout_centerInParent="true"
+            	android:textSize="@dimen/font_title"
+			    />
+			
+			<ImageView 
+			    android:layout_centerVertical="true"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignParentLeft="true"
+			    android:layout_marginLeft="10dp"
+			    android:src="@drawable/sign_huakou_img"/>    
+			
+			<ImageView 
+			    android:id="@+id/sign_huakou_done"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignParentRight="true"
+			    android:layout_marginRight="10dp"
+			    android:layout_centerVertical="true"
+			    android:visibility="gone"
+			    android:src="@drawable/apply_done"/>  
+            
+        </RelativeLayout>
+
+<RelativeLayout 
+            android:id="@+id/sign_credit_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="20dp"
+            android:padding="10dp"
+            android:background="@drawable/apply_btn_bg">
+			    
+
+			<TextView
+			    android:id="@+id/sign_credit_txt"
+			    android:layout_margin="10dp"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="信用咨询服务协议"
+			    android:textColor="@color/white"
+			    android:layout_centerInParent="true"
+            	android:textSize="@dimen/font_title"
+			    />
+			
+			<ImageView 
+			    android:layout_centerVertical="true"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignParentLeft="true"
+			    android:layout_marginLeft="10dp"
+			    android:src="@drawable/sign_credit_img"/>    
+			
+			<ImageView 
+			    android:id="@+id/sign_credit_done"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignParentRight="true"
+			    android:layout_marginRight="10dp"
+			    android:layout_centerVertical="true"
+			    android:visibility="gone"
+			    android:src="@drawable/apply_done"/>  
+            
+        </RelativeLayout>        
+        
+		<RelativeLayout 
+            android:id="@+id/sign_borrow_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="20dp"
+            android:padding="10dp"
+            android:background="@drawable/apply_btn_bg">
+			    
+
+			<TextView
+			    android:id="@+id/sign_borrow_txt"
+			    android:layout_margin="10dp"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="借款协议"
+			    android:textColor="@color/white"
+			    android:layout_centerInParent="true"
+            	android:textSize="@dimen/font_title"
+			    />
+			
+			<ImageView 
+			    android:layout_centerVertical="true"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignParentLeft="true"
+			    android:layout_marginLeft="10dp"
+			    android:src="@drawable/sign_borrow_img"/>    
+			
+			<ImageView 
+			    android:id="@+id/sign_borrow_done"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignParentRight="true"
+			    android:layout_marginRight="10dp"
+			    android:layout_centerVertical="true"
+			    android:visibility="gone"
+			    android:src="@drawable/apply_done"/>  
+            
+        </RelativeLayout>
+        
+        
+
+    </LinearLayout>
+
+        <Button
+            android:id="@+id/agree"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/main_btn_bg"
+            android:text="提交"
+            android:textSize="@dimen/font_button"
+            android:textColor="@color/white" />
+
+</LinearLayout>

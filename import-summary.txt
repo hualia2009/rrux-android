@@ -1,0 +1,79 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* .gitignore
+* ic_launcher-web.png
+* tingyun.properties
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* libs/BrHomeMobileSDK.jar => app/libs/BrHomeMobileSDK.jar
+* libs/GetuiExt-2.0.3.jar => app/libs/GetuiExt-2.0.3.jar
+* libs/GetuiSdk2.4.1.0.jar => app/libs/GetuiSdk2.4.1.0.jar
+* libs/activation.jar => app/libs/activation.jar
+* libs/additionnal.jar => app/libs/additionnal.jar
+* libs/armeabi-v7a/libCryptUtils.so => app/src/main/jniLibs/armeabi-v7a/libCryptUtils.so
+* libs/armeabi-v7a/libexbankcardrec.so => app/src/main/jniLibs/armeabi-v7a/libexbankcardrec.so
+* libs/armeabi-v7a/libexocrenginec.so => app/src/main/jniLibs/armeabi-v7a/libexocrenginec.so
+* libs/armeabi-v7a/libgetuiext.so => app/src/main/jniLibs/armeabi-v7a/libgetuiext.so
+* libs/armeabi-v7a/liblocSDK6a.so => app/src/main/jniLibs/armeabi-v7a/liblocSDK6a.so
+* libs/armeabi-v7a/libumeng_opustool.so => app/src/main/jniLibs/armeabi-v7a/libumeng_opustool.so
+* libs/armeabi-v7a/libzbar.so => app/src/main/jniLibs/armeabi-v7a/libzbar.so
+* libs/armeabi/libCryptUtils.so => app/src/main/jniLibs/armeabi/libCryptUtils.so
+* libs/armeabi/libexbankcardrec.so => app/src/main/jniLibs/armeabi/libexbankcardrec.so
+* libs/armeabi/libexocrenginec.so => app/src/main/jniLibs/armeabi/libexocrenginec.so
+* libs/armeabi/libgetuiext.so => app/src/main/jniLibs/armeabi/libgetuiext.so
+* libs/armeabi/liblocSDK6a.so => app/src/main/jniLibs/armeabi/liblocSDK6a.so
+* libs/armeabi/libumeng_opustool.so => app/src/main/jniLibs/armeabi/libumeng_opustool.so
+* libs/armeabi/libzbar.so => app/src/main/jniLibs/armeabi/libzbar.so
+* libs/com.umeng.fb.5.2.0.jar => app/libs/com.umeng.fb.5.2.0.jar
+* libs/fraudmetrix-2.0.7.jar => app/libs/fraudmetrix-2.0.7.jar
+* libs/licensemanager.jar => app/libs/licensemanager.jar
+* libs/locSDK_6.13.jar => app/libs/locSDK_6.13.jar
+* libs/mail.jar => app/libs/mail.jar
+* libs/nineoldandroids-2.4.0.jar => app/libs/nineoldandroids-2.4.0.jar
+* libs/pinyin4j-2.5.0.jar => app/libs/pinyin4j-2.5.0.jar
+* libs/umeng-analytics-v5.4.2.jar => app/libs/umeng-analytics-v5.4.2.jar
+* proguard-project.txt => app/proguard-project.txt
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* src/exocr/.DS_Store => app/src/main/resources/exocr/.DS_Store
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

@@ -1,0 +1,934 @@
+[
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/apply_bank_pressed.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/apply_bank_pressed.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/homepage_logo.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/homepage_logo.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/face_loading_img.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/face_loading_img.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/sign_borrow_img.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/sign_borrow_img.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/back_pressed.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/back_pressed.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/camera.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/camera.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/apply_phone_normal.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/apply_phone_normal.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/refresh_normal.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/refresh_normal.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/setup.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/setup.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/main_head_mask.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/main_head_mask.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/photogroup_layout_surebtn_p.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/photogroup_layout_surebtn_p.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/card.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/card.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_nongshang.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_nongshang.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/searchicon.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/searchicon.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_chongqing.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_chongqing.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/login_bg_left.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/login_bg_left.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/juxinli_skip_nomal.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/juxinli_skip_nomal.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_fb_audio_play_03.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/umeng_fb_audio_play_03.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_bg_pressed15.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_bg_pressed15.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_gongshang.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_gongshang.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/emptyicon.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/emptyicon.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_pingan.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_pingan.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/photogroup_layout_surebtn_n.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/photogroup_layout_surebtn_n.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_bg_pressed8.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_bg_pressed8.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/cancle.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/cancle.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/protocol_credit_pressed.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/protocol_credit_pressed.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/manage_loan_pressed.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/manage_loan_pressed.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/homepage_title_image.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/homepage_title_image.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/protocol_huakou_pressed.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/protocol_huakou_pressed.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_minsheng.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_minsheng.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_hangzhou.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_hangzhou.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/loading_img.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/loading_img.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/manage_loan.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/manage_loan.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/guide_image3.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/guide_image3.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/capture.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/capture.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finish_icon.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/finish_icon.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/validate_photo_normal.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/validate_photo_normal.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jingdong.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/jingdong.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_nanjing.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_nanjing.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_weifang.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_weifang.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_chengdu.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_chengdu.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/edittext_close.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/edittext_close.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_changshu.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_changshu.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_bg_pressed13.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_bg_pressed13.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_guangzhou.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_guangzhou.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_bg_pressed10.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_bg_pressed10.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_zhongxin.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_zhongxin.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/apply_bank_normal.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/apply_bank_normal.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/login_bg_right_top.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/login_bg_right_top.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/juxinli_skip_pressed.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/juxinli_skip_pressed.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_bg_pressed3.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_bg_pressed3.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_bg_pressed6.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_bg_pressed6.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/light_img.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/light_img.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bankcard_mask.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bankcard_mask.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_fb_audio_play_01.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/umeng_fb_audio_play_01.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/hyperphoricbtn.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/hyperphoricbtn.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/main_layout_againbtn_p.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/main_layout_againbtn_p.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_bg_pressed11.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_bg_pressed11.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/homepage_right_top.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/homepage_right_top.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_mask.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_mask.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_bg_pressed4.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_bg_pressed4.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/guide_image1.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/guide_image1.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/back_selected.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/back_selected.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/apply_contact.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/apply_contact.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/idcard_front_mask.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/idcard_front_mask.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_bg_pressed.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_bg_pressed.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/sign_credit_img.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/sign_credit_img.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/result_success.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/result_success.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/electricbusiness_jingdong.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/electricbusiness_jingdong.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_guangfa.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_guangfa.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_line.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_line.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/protocol_huakou_normal.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/protocol_huakou_normal.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_jianshe.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_jianshe.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/protocol_borrow_pressed.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/protocol_borrow_pressed.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/record.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/record.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/takebankcard_normal.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/takebankcard_normal.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_bg_pressed5.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_bg_pressed5.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_bg_pressed12.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_bg_pressed12.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_rizhao.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_rizhao.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/default_appendix.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/default_appendix.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_dalian.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_dalian.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/setting_charge.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/setting_charge.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/manage_appendix.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/manage_appendix.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/main_credit_skip_btn_bg.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/main_credit_skip_btn_bg.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_jiangsu.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_jiangsu.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/sign_huakou_img.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/sign_huakou_img.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/about_banner.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/about_banner.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/confirm_pressed.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/confirm_pressed.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/taobao.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/taobao.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_nongye.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_nongye.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/guide_image2.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/guide_image2.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_haerbin.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_haerbin.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/apply_study_normal.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/apply_study_normal.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/main_camera_mask.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/main_camera_mask.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_qingdao.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_qingdao.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/back_normal.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/back_normal.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/edittext_eye_close.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/edittext_eye_close.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/radiobutton_uncheck.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/radiobutton_uncheck.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/main_apply_bg_normal.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/main_apply_bg_normal.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_fb_audio_play_02.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/umeng_fb_audio_play_02.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/oval.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/oval.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_nanchang.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_nanchang.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/apply_phone_pressed.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/apply_phone_pressed.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_qishang.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_qishang.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/main_sign_bg_pressed.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/main_sign_bg_pressed.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_xingye.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_xingye.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/protocol_borrow_normal.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/protocol_borrow_normal.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/idcard_back_mask.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/idcard_back_mask.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_bg_normal.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_bg_normal.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/main_gradient_back.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/main_gradient_back.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_guangda.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_guangda.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_huaxia.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_huaxia.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/edittext_eye_open.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/edittext_eye_open.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/custom_take_photo_normal.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/custom_take_photo_normal.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/photogroup_layout_select_n.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/photogroup_layout_select_n.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/manage_appendix_pressed.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/manage_appendix_pressed.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_dongguan.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_dongguan.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/rightarrow.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/rightarrow.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_normal.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_normal.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/addcard.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/addcard.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_bg_pressed2.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_bg_pressed2.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/default_ptr_flip.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/default_ptr_flip.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/main_repay_bg_pressed.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/main_repay_bg_pressed.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/photogroup_layout_select_p.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/photogroup_layout_select_p.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/custom_take_photo_selected.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/custom_take_photo_selected.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/apply_contact_pressed.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/apply_contact_pressed.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/contact_img.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/contact_img.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/protocol_credit_normal.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/protocol_credit_normal.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/rectangle_kuang.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/rectangle_kuang.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/confirm_normal.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/confirm_normal.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/apply_study_pressed.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/apply_study_pressed.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/apply_study.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/apply_study.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/progress_rotate.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/progress_rotate.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/login_bg_right_bottom.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/login_bg_right_bottom.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_shanghai.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_shanghai.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/loading_progress.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/loading_progress.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_clicked.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_clicked.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_ningbo.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_ningbo.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_bg_pressed9.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_bg_pressed9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_bg_pressed16.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_bg_pressed16.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/takepicture.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/takepicture.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_guangxi.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_guangxi.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/apply_idcard.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/apply_idcard.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/main_apply_bg_pressed.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/main_apply_bg_pressed.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_qilu.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_qilu.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/refresh_pressed.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/refresh_pressed.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/indicator_arrow.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/indicator_arrow.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/main_credit_bg_normal.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/main_credit_bg_normal.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/default_ptr_rotate.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/default_ptr_rotate.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_huishang.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_huishang.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/main_layout_againbtn_n.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/main_layout_againbtn_n.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_dezhou.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_dezhou.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_zhaoshang.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_zhaoshang.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/radiobutton_check.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/radiobutton_check.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/takebankcard_clicked.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/takebankcard_clicked.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/validate_photo_pressed.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/validate_photo_pressed.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/apply_contact_normal.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/apply_contact_normal.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_hankou.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_hankou.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_bg_pressed14.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_bg_pressed14.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_shengjing.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_shengjing.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/user_guide_btn.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/user_guide_btn.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_bg_pressed7.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_bg_pressed7.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_pufa.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_pufa.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/main_repay_bg_normal.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/main_repay_bg_normal.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_weihai.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_weihai.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_wenzhou.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_wenzhou.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/emotionstore_progresscancelbtn.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/emotionstore_progresscancelbtn.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/homepage_right_bottom.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/homepage_right_bottom.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/main_credit_bg_pressed.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/main_credit_bg_pressed.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/nonet.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/nonet.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scan_bg_pressed1.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/scan_bg_pressed1.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/register_xuexin.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/register_xuexin.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/home_page_left.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/home_page_left.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/apply_done.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/apply_done.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_tailong.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_tailong.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/face_loading_bg.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/face_loading_bg.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/main_sign_bg_normal.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/main_sign_bg_normal.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_changsha.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_changsha.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_jiaotong.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_jiaotong.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bank_zhongguo.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xhdpi/bank_zhongguo.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/huangl/.android/build-cache/269d893e4a7145b8d94668e1a88ce71e22eaafc6/output/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    }
+]

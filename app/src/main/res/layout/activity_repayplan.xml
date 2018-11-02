@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:orientation="horizontal">
+        <TextView 
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="期数"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="@dimen/font_button"/>
+        <View 
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2"
+            />
+        <TextView 
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="还款日"
+            android:id="@+id/payday"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="@dimen/font_button"/>
+        <View 
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2"
+            />        
+        <TextView 
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="金额（元）"
+            android:gravity="center"
+            android:singleLine="true"
+            android:textColor="@color/black"
+            android:textSize="@dimen/font_button"/>
+    </LinearLayout>
+   
+    <ExpandableListView 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@color/divide_line_color"
+        android:dividerHeight="1px"
+        android:id="@+id/list">
+        
+    </ExpandableListView>
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/raw/client.p12",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/raw/client.p12"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/raw/zone.db",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/raw/zone.db"
+    }
+]

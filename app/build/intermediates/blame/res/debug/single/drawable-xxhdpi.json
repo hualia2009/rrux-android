@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/login_btn_bg_pressed.9.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xxhdpi/login_btn_bg_pressed.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/login_btn_bg.9.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xxhdpi/login_btn_bg.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/inputhalf_blue.9.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xxhdpi/inputhalf_blue.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/input.9.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xxhdpi/input.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/inputhalf_gray.9.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xxhdpi/inputhalf_gray.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/inputhalf.9.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xxhdpi/inputhalf.9.png"
+    },
+    {
+        "merged": "/Users/huangl/rrux-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/login_btn_bg_disable.9.png",
+        "source": "/Users/huangl/rrux-android/app/src/main/res/drawable-xxhdpi/login_btn_bg_disable.9.png"
+    }
+]

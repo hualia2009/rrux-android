@@ -148,7 +148,7 @@
     public static final int *;
 }
 
--libraryjars libs/pinyin4j-2.5.0.jar
+#-libraryjars libs/pinyin4j-2.5.0.jar
 
 -dontwarn demo.**
 -keep class demo.**{*;}

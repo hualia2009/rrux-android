@@ -42,10 +42,6 @@ public class HomePageActivity extends SlidingFragmentActivity {
 
     private OnClickListener clickListener;
     private ExitBroadCast exitReceiver = new ExitBroadCast();
-    
-    public OnClickListener getClickListener() {
-		return clickListener;
-	}
 
 	public void setClickListener(OnClickListener clickListener) {
 		this.clickListener = clickListener;
@@ -170,7 +166,7 @@ public class HomePageActivity extends SlidingFragmentActivity {
         outState.putBoolean("isDoubleCheck", UcreditDreamApplication.isDoubleCheck);
 //        outState.putLong("millisecond", UcreditDreamApplication.millisecond);
     }
-    
+
     @Override
     public void onBackPressed() {
         if (getSupportFragmentManager().getBackStackEntryCount() == 0) {
@@ -197,11 +193,6 @@ public class HomePageActivity extends SlidingFragmentActivity {
         super.onResume();
         MobclickAgent.onResume(this);
         
-    }
-
-    protected void toActivity(Class<?> activity) {
-        Intent intent = new Intent(this, activity);
-        startActivity(intent);
     }
 
     @Override

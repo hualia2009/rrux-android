@@ -95,7 +95,7 @@
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
                 android:layout_gravity="bottom"
-                android:background="@drawable/login_button_bg"
+                android:background="@drawable/ripple_bg"
                 android:text="登    录"
                 android:enabled="false"
                 android:textColor="@android:color/white"

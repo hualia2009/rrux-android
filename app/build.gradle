@@ -14,8 +14,16 @@ android {
     buildTypes {
         release {
             minifyEnabled true
+            //zipAlignEnabled true
+            //shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-project.txt'
         }
+    }
+
+    //Add the following configuration
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
     }
 
     aaptOptions{

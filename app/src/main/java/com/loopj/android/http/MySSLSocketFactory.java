@@ -55,6 +55,7 @@ import org.apache.http.protocol.HTTP;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
+import android.util.Log;
 
 import com.ucredit.dream.R;
 
@@ -99,12 +100,16 @@ public class MySSLSocketFactory extends SSLSocketFactory {
         KeyManagerFactory kmf = KeyManagerFactory.getInstance(KeyManagerFactory.getDefaultAlgorithm());
         kmf.init(keystore, password.toCharArray());
         Enumeration<String> as = keystore.aliases();
+        Log.i("keystore length",""+keystore.size());
         X509Certificate xs[] = null;
         while(as.hasMoreElements()){
             String alias = as.nextElement();
+            Log.i("---------",""+alias);
             Certificate[] cs = keystore.getCertificateChain(alias);
             xs = new X509Certificate[cs.length];
             for (int i = 0; i < cs.length; i++) {
+                Log.i("Certificate length",""+cs.length);
+                Log.i("Certificate length",""+cs.length);
                 xs[i] = (X509Certificate) cs[i];
                 X509Certificate x = xs[i];
             }
